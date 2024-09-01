@@ -17,6 +17,11 @@ console.log(id === anotherId);
 // const bigNumber = 3456543576654356754n
 
 
+//********************************************************************************MEMORY
+
+let myName = ""
+
+
 
 // Reference (Non primitive)
 
